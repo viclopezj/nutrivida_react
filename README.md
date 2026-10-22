@@ -9,7 +9,7 @@ Aplicación web de la clínica de nutrición **NutriVida**, migrada de HTML, CSS
 | **Sección** | 003D |
 | **Asignatura** | Desarrollo Fullstack II |
 | **Docente** | Victor Andrade |
-| **Grupo** | 12] |
+| **Grupo** | 12 |
 | **Integrantes** | Vicente Lopez e Igor Rojas |
 
 ---
