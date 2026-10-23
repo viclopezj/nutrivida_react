@@ -121,6 +121,6 @@ npm install
 # Iniciar el servidor de desarrollo
 npm run dev
 
-# Iniciar el testeo
+# Iniciar el testeos de los archivos
 npm run test
 ```
